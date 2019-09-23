@@ -6,3 +6,9 @@ If needed, use a seperate csv file downloaded from Yahoo finiance wth bigger dat
 
 
 3 hidden layers with 25 nurons each, the second regression line have error tolerence of 0.1 instead of 0.1 in the first regression line.
+
+
+
+
+for refrence 
+https://towardsdatascience.com/simple-stock-price-prediction-with-ml-in-python-learners-guide-to-ml-76896910e2ba
