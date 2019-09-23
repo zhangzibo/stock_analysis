@@ -19,6 +19,9 @@ dates = stock_data[:, 0].reshape(-1, 1)
 mpl.plot(dates[:, 0], prices[:, 0])
 mpl.show()
 
+
+
+
 #Number of neurons in the input, output, and hidden layers
 input = 1
 output = 1
