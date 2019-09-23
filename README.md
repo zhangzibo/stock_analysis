@@ -1,4 +1,4 @@
-# stock_analysis
+# stock_analysis (Zimmer biomet)
 a simple ML program that use matplolib, NumPy, sykit-learn, tensor-flow to give two regression line predicting trends of a stock prices
 
 
